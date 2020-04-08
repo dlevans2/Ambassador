@@ -1,2 +1,3 @@
-github "envoy/Embassy" ~> 4.0
-
+# github "envoy/Embassy" ~> 4.0
+# Temporarily using PR branch below fixing some crashing issues
+github "inamiy/Embassy" "fix-KqueueSelector-crash" 
